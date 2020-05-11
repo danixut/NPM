@@ -7,6 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "env FORCE_COLOR=1 node index.js"
   },
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/danixut/NPM.git"
+ },
+ "keywords": [
+   "Express"
+ ],
   "author": "Daniel Xotla Sanchex",
   "license": "MIT",
   "dependencies": {
